@@ -95,7 +95,6 @@ pm uninstall -k --user 0 com.samsung.android.app.clipboardedge
 pm uninstall -k --user 0 com.samsung.android.app.cocktailbarservice
 pm uninstall -k --user 0 com.samsung.android.app.episodes
 pm uninstall -k --user 0 com.samsung.android.app.filterinstaller
-pm uninstall -k --user 0 com.samsung.android.app.galaxyfinder
 pm uninstall -k --user 0 com.samsung.android.app.ledbackcover
 pm uninstall -k --user 0 com.samsung.android.app.ledcoverdream
 pm uninstall -k --user 0 com.samsung.android.app.memo
@@ -302,3 +301,6 @@ pm uninstall -k --user 0 com.spotify.music
 pm uninstall -k --user 0 com.netflix.mediaclient
 pm uninstall -k --user 0 com.google.audio.hearing.visualization.accessibility.scribe
 pm uninstall -k --user 0 com.samsung.android.privateshare
+
+Deleted lines:
+pm uninstall -k --user 0 com.samsung.android.app.galaxyfinder
