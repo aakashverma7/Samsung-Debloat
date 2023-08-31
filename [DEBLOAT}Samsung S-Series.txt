@@ -301,6 +301,10 @@ pm uninstall -k --user 0 com.spotify.music
 pm uninstall -k --user 0 com.netflix.mediaclient
 pm uninstall -k --user 0 com.google.audio.hearing.visualization.accessibility.scribe
 pm uninstall -k --user 0 com.samsung.android.privateshare
+pm uninstall -k --user 0 com.swiftkey.swiftkeyconfigurator
+pm uninstall -k --user 0 com.touchtype.swiftkey
+pm uninstall -k --user 0 com.facebook.services
+
 
 Deleted lines:
 pm uninstall -k --user 0 com.samsung.android.app.galaxyfinder
